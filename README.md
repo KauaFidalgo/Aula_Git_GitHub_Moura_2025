@@ -1,2 +1,3 @@
-# Aula_Git_GitHub_Moura_2025
-Repositório criado para mostrar como criar um repositório no GitHub.
+# Primeiro README
+
+Uma breve descrição sobre o que esse projeto faz e para quem ele é
